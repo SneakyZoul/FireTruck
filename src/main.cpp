@@ -57,6 +57,7 @@ void loop()
   digitalWrite(MOTOR_DIR_PIN, HIGH);
   delay(1000);
   // Somthing
+  // new test!
 
   //   // put your main code here, to run repeatedly:
   digitalWrite(LED_BUILTIN, HIGH);
